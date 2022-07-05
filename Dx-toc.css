@@ -1,0 +1,19 @@
+/* Blogger Table Of Contents - TOC by Sohel Mahmud (blogbn.com) */
+ .prTOC{flex:auto;width:fit-content;background:#eee;font-size:14px;padding:11px;margin:8px 0 30px 0; border:1px solid black;}
+ .prTOC li{margin:0 0 0.25em 0}
+ .prTOC a{color:#2a5365}
+ .prTOC h4{margin:0;cursor:pointer}
+ .prTOC h4:before{font-family:FontAwesome;content:"\f0c9";padding-right:7px;}
+.prTOC-inner{position:relative;max-width:100%;background-color:gray;display:flex;flex-direction:column;overflow:hidden;font-size:14px;color:black;line-height:1.6em;border:0;border-radius:20px}.prTOC{ border:0.10px solid #000; border-radius: 6px;padding-right: 50px;padding-left: 20px;
+}.prTOC-text{display:flex}
+.prTOC li a:hover{opacity:0.8;text-decoration:underline}
+a.prTOC-title:hover{text-decoration:none}
+a.prTOC-title:hover{text-decoration:underline}
+ .prTOCa a:link {
+  color: green;
+}
+.prTOC a:visited {
+  color: green;
+}
+.prTOC a:hover {
+  color: red;
